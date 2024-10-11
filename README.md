@@ -232,20 +232,6 @@ Install the dependencies using:
 pip install -r requirements.txt
 ```
 
-**Contents of `requirements.txt`:**
-
-```
-gradio>=3.25.0
-requests
-```
-
-## File Structure 📁
-
-- **app.py**: The main application script.
-- **requirements.txt**: Lists the Python dependencies.
-- **README.md**: This readme file.
-- **screenshot.png**: Screenshot of the application (replace with an actual screenshot).
-
 ## Troubleshooting 🛠️
 
 - **Cannot Connect to Ollama Server**:
