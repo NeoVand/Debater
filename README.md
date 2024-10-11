@@ -2,7 +2,8 @@
 
 Welcome to **Ollama Debater**! This application simulates a debate between two AI agents on a given topic. The agents use the [Ollama](https://ollama.ai/) local language models to generate their responses in real-time. The debate can be started, stopped, and reset at any time, allowing you to control the flow of the conversation.
 
-![Ollama Debater Screenshot](screenshot.png)
+![Ollama Debater Screenshot](./screenshot.png)
+
 [Video Demo](https://youtu.be/aKgXlmKVvWs) 
 
 ## Introduction 📝
