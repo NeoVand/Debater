@@ -253,8 +253,4 @@ pip install -r requirements.txt
 
 **Ollama Debater** showcases the power of combining language models with interactive applications. By using Ollama, Gradio, and Requests, you can create dynamic AI-driven experiences. This application serves as both a fun tool and an educational example of how to build AI applications with Python.
 
-**Enjoy debating with AI agents! 🧠🤖**
-
----
-
-*Note: This readme is intended to be educational, explaining the technologies used and guiding you through setup and usage. For any questions or issues, feel free to reach out or consult the documentation of the respective tools.*
+**Enjoy watching the debate! 🧠🤖**
